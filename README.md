@@ -1,3 +1,3 @@
 # Customer-Churn-Project
 
-<h2>Author : Pratham Migalani</h2>
+<h6>Author : Pratham Migalani</h6>
